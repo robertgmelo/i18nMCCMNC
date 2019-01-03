@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">i18nMCC-MNC</string>
+    <string name="resource_with_mcc_mnc_default" translatable="false">Fallback rule for resource with mcc-mnc qualifier:</string>
+    <string name="resource_without_mcc_mnc_default" translatable="false">Fallback rule for resource without mcc-mnc qualifier:</string>
+    <string name="resource_without_locale_mcc_mnc_default" translatable="false">Fallback rule for resource without locale and mcc-mnc qualifiers:</string>
+    <string name="telephony_info" translatable="false">Telephony Info</string>
+    <string name="resources_info" translatable="false">Resources Details</string>
+    <string name="network_operator" translatable="false">\u2022 Network operator: <xliff:g id="mcc">%1$d</xliff:g>-<xliff:g id="mnc">%2$d</xliff:g></string>
+    <string name="sim_operator" translatable="false">\u2022 SIM operator: <xliff:g id="mcc">%1$d</xliff:g>-<xliff:g id="mnc">%2$d</xliff:g></string>
+    <string name="wifi_calling">\u2022 Wi-Fi calling \u21e8 DEFAULT</string>
+    <string name="wifi_calling2">\u2022 Wi-Fi calling \u21e8 DEFAULT</string>
+    <string name="wifi_calling3">\u2022 Wi-Fi calling \u21e8 DEFAULT</string>
+</resources>
